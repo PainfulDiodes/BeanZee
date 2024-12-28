@@ -2,7 +2,7 @@
 ## Z80 development board
 Schematics and Gerber files for a simple development board for the Z80 CPU. 
 
-![](images/beanzeephotocorner.jpg)
+![](images/BeanZee_photo_corner.jpg)
 
 This started out as a simple [Z80 breadboard computer](https://github.com/PainfulDiodes/z80-breadboard-computer) and the schematic is basically the same; please refer to the breadboard project for further background.
 
@@ -19,9 +19,14 @@ I copied the breadboard design exactly onto a matrixboard prototype, but for the
 * Pin header jumper to disable the internal memory  
 * Pin header jumper to disable the internal USB module  
 * Support for either 8k (AT28C64B) or 32k (AT28C256) EEPROM  
-  
-[Schematic](kicad/BeanZee.pdf)
 
-![](images/beanzeephototop.jpg)
+Schematics:
   
-![](images/beanzeepcb.png)
+![](images/BeanZee_schematic_1.png)
+![](images/BeanZee_schematic_2.png)
+![](images/BeanZee_schematic_3.png)
+![](images/BeanZee_schematic_4.png)
+
+![](images/BeanZee_photo.jpg)
+  
+![](images/BeanZee_PCB.png)
