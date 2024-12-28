@@ -20,11 +20,14 @@ I copied the breadboard design exactly onto a matrixboard prototype, but for the
 * Pin header jumper to disable the internal USB module  
 * Support for either 8k (AT28C64B) or 32k (AT28C256) EEPROM  
 
-Schematics:
+Schematic:
   
 ![](images/BeanZee_schematic_1.png)
+
 ![](images/BeanZee_schematic_2.png)
+
 ![](images/BeanZee_schematic_3.png)
+
 ![](images/BeanZee_schematic_4.png)
 
 ![](images/BeanZee_photo.jpg)
