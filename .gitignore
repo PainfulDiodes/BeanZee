@@ -1,0 +1,14 @@
+.DS_Store
+*.kicad_prl
+*.lck
+*.bak
+fp-info-cache
+*-backups/
+*#auto_saved_files#
+bin
+hex
+lst
+*.hex
+*.bin
+*.gbrjob
+*gbr.zip
