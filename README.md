@@ -4,7 +4,7 @@ Schematics and Gerber files for a simple development board for the Z80 CPU.
 
 ![](images/BeanZee_photo_corner.jpg)
 
-This started out as a simple [Z80 breadboard computer](https://github.com/PainfulDiodes/z80-breadboard-computer) and the schematic is basically the same; please refer to the breadboard project for further background.
+This started out as a simple [Z80 breadboard computer](https://github.com/PainfulDiodes/z80-breadboard-computer) and the schematic is basically the same; please refer to the breadboard project for further background. See also my [BeanZee blog post](https://painfuldiodes.wordpress.com/2024/12/29/beanzee-z80-development-board/).
 
 The board has a 10MHz Z80 CPU, a clock module, 32k RAM, 32k EEPROM - which needs to be programmed externally, a simple reset circuit and an [FTDI UM245R](https://ftdichip.com/products/um245r/) USB module.
 
