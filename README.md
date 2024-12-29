@@ -30,6 +30,8 @@ Schematics:
 
 ![](images/BeanZee_schematic_4.png)
 
+![](images/BeanZee_schematic_5.png)
+
 ![](images/BeanZee_photo.jpg)
   
 ![](images/BeanZee_PCB.png)
