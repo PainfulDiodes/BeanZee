@@ -45,3 +45,5 @@ If /CLKINH is left disconnected the on-board clock will operate normally. If /CL
 ![](images/BeanZee_photo.jpg)
   
 ![](images/BeanZee_PCB.png)
+
+![](images/BeanZee_PCB_2.png)
