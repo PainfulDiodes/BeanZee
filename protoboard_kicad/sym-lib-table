@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AS6C62256")(type "KiCad")(uri "${KIPRJMOD}/AS6C62256.kicad_sym")(options "")(descr ""))
+  (lib (name "AT28C64B")(type "KiCad")(uri "${KIPRJMOD}/AT28C64B.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-2200x-xxx")(type "KiCad")(uri "${KIPRJMOD}/ECS-2200x-xxx.kicad_sym")(options "")(descr ""))
+  (lib (name "UM245R")(type "KiCad")(uri "${KIPRJMOD}/UM245R.kicad_sym")(options "")(descr ""))
+  (lib (name "AT28C256-15PU")(type "KiCad")(uri "${KIPRJMOD}/AT28C256-15PU.kicad_sym")(options "")(descr ""))
+)
