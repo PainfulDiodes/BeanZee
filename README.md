@@ -7,12 +7,13 @@ Connectors provided for interfacing with the Z80: address, data, read, write, IO
 
 The internal clock may be overridden by an external clock, and the internal memory and USB module may also be disabled via jumpers so that external devices can be used, or additional memory and IO selection logic added.
 
+There is an accompanying [Marvin](https://github.com/PainfulDiodes/marvin) simple monitor program which can be used to inspect and modify memory contents and load and execute a program from the host computer.
+
 See also:  
 [Detailed README](README-DETAILED.md)   
-
-[Hackaday project](https://hackaday.io/project/202193-beanzee)  
-[Blog post](https://painfuldiodes.wordpress.com/2024/12/29/beanzee-z80-development-board/)  
 [Marvin the monitor](https://github.com/PainfulDiodes/marvin)   
+[Blog post](https://painfuldiodes.wordpress.com/2024/12/29/beanzee-z80-development-board/)  
+[Hackaday project](https://hackaday.io/project/202193-beanzee)  
 [MINT minimalist interpreter for BeanZee](https://github.com/PainfulDiodes/MINT)  
 [Z80 breadboard computer](https://github.com/PainfulDiodes/z80-breadboard-computer) - the schematic is largely the same as BeanZee  
 

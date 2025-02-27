@@ -3,7 +3,19 @@ This project started out as the [Z80 breadboard computer](https://github.com/Pai
 
 The board has a 10MHz Z80 CPU, a clock module, 32k RAM, 32k EEPROM - which needs to be programmed externally, a simple reset circuit and an FTDI [UM245R](https://ftdichip.com/products/um245r/) USB module.
 
-I am (slowly) developing [Marvin](https://github.com/PainfulDiodes/marvin), a simple monitor program, through which I expect to provide the means to load and execute a program on the BeanZee via the USB interface. However, as an alternative, I have also ported the [MINT](https://github.com/PainfulDiodes/MINT) minimalist interpreter, which so far looks like it can perform this function well.
+There is an accompanying [Marvin](https://github.com/PainfulDiodes/marvin) simple monitor program.
+
+Marvin can be used via the USB and a terminal emulator on a host computer to:
+* Inspect memory in hex
+* Modify memory in hex
+* Load a program if available in [Intel HEX](https://en.wikipedia.org/wiki/Intel_HEX) format
+* Execute a program (jump to any address)
+
+There are a couple of files that are noteworthy in that they tie Marvin to the circuit design:
+
+* [beanzee.asm](https://github.com/PainfulDiodes/marvin/blob/main/beanzee.asm) defines memory and port addresses
+* [UM245R.asm](https://github.com/PainfulDiodes/marvin/blob/main/UM245R.asm) provides basic I/O routines specific for how the UM245 is wired into the circuit - such as which bits relate to the status of the device 
+
 
 # High level design
 ![](images/z80_breadboard_hld.jpg)
