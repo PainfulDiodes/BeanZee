@@ -7,7 +7,7 @@ Connectors provided for interfacing with the Z80: address, data, read, write, IO
 
 The internal clock may be overridden by an external clock, and the internal memory and USB module may also be disabled via jumpers so that external devices can be used, or additional memory and IO selection logic added.
 
-There is an accompanying [Marvin](https://github.com/PainfulDiodes/marvin) simple monitor program which can be used to inspect and modify memory contents and load and execute a program from the host computer.
+There is an accompanying [Marvin](https://github.com/PainfulDiodes/marvin) simple monitor program which can be used to inspect and modify memory contents and load and execute a program from the host computer. Example programs can be found in [BeanZeeBytes](https://github.com/PainfulDiodes/BeanZeeBytes).
 
 See also:  
 [Detailed README](README-DETAILED.md)   
