@@ -1,4 +1,4 @@
-# BeanZee Z80 development board
+# BeanZee Z80 homebrew development board
 A small Z80 based single-board-computer designed for experimentation.
 
 Z80 CPU, 10 MHz clock, a simple reset circuit, 32K ROM, 32K RAM, FTDI UM245R USB module and the necessary glue logic.
