@@ -10,12 +10,14 @@ The internal clock may be overridden by an external clock, and the internal memo
 There is an accompanying [Marvin](https://github.com/PainfulDiodes/marvin) simple monitor program which can be used to inspect and modify memory contents and load and execute a program from the host computer. Example programs can be found in [BeanZeeBytes](https://github.com/PainfulDiodes/BeanZeeBytes).
 
 See also:  
-[Detailed README](README-DETAILED.md)   
-[Marvin the monitor](https://github.com/PainfulDiodes/marvin)   
-[Blog post](https://painfuldiodes.wordpress.com/2024/12/29/beanzee-z80-development-board/)  
-[Hackaday project](https://hackaday.io/project/202193-beanzee)  
-[MINT minimalist interpreter for BeanZee](https://github.com/PainfulDiodes/MINT)  
-[Z80 breadboard computer](https://github.com/PainfulDiodes/z80-breadboard-computer) - the schematic is largely the same as BeanZee  
+* [Detailed README](README-DETAILED.md)   
+* [QWERTY Keyboard, simple LCD display and GPIO for BeanZee](https://github.com/PainfulDiodes/BeanBoard)  
+* [MINT minimalist interpreter for BeanZee](https://github.com/PainfulDiodes/MINT)  
+* [Blog post](https://painfuldiodes.wordpress.com/2024/12/29/beanzee-z80-development-board/)  
+* [Hackaday project](https://hackaday.io/project/202193-beanzee)  
+    
+<br>
+<br>
 
 ![](images/BeanZee_photo_corner.jpg)
   
